@@ -13,5 +13,6 @@ Kernel adalah matriks kecil (misalnya 3x3, 5x5, 7x7) yang digunakan untuk menghi
 👉 Semakin besar kernel → semakin blur
 
 Compile program : gcc modul3.c -o modul3.exe
+
 Jalankan program : ./modul3.exe
 
